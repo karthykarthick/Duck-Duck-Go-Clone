@@ -117,7 +117,7 @@ input::placeholder {
 
 @media screen and (min-width: 1024px) {
   .content #search {
-    width: 65%;
+    width: 55%;
   }
   .search-icon{
         right: 208px;
